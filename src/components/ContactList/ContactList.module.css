@@ -1,0 +1,14 @@
+.phoneItem{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.list{
+    padding: 0px 10px;
+}
+.button{
+    cursor: pointer;
+    display: block;
+    padding: 0px 10px;
+}
